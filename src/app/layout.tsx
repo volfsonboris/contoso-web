@@ -8,8 +8,7 @@ export const metadata: Metadata = {
   title: "Contoso Outdoors Company",
   description:
     "Embrace Adventure with Contoso Outdoors - Your Ultimate Partner in Exploring the Unseen!",
-  msvalidate.01: "5A0CC8F41E57EDEBA1DFA77CF2B2CEC0",
-};
+  };
 
 export default async function RootLayout({
   children,
