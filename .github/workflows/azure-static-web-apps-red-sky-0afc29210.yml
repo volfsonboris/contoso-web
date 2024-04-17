@@ -1,5 +1,8 @@
 name: Azure Static Web Apps CI/CD
 
+bing_site_verification: 5A0CC8F41E57EDEBA1DFA77CF2B2CEC0
+
+
 on:
   push:
     branches:
