@@ -7,7 +7,7 @@ import Header from "@/components/header";
 
 export const metadata: Metadata = {
   verification: {
-    msvalidate.01: '5A0CC8F41E57EDEBA1DFA77CF2B2CEC0',
+     google: 'hkQbtcv-jCb7E-NtLFeEy7_Vr9FfOvuuSgAD4b14ayo',
   },
   title: "Contoso Outdoors Company",
   description:
