@@ -4,7 +4,11 @@ import Chat from "@/components/chat";
 import Block from "@/components/block";
 import Header from "@/components/header";
 
+
 export const metadata: Metadata = {
+  verification: {
+    msvalidate.01: '5A0CC8F41E57EDEBA1DFA77CF2B2CEC0',
+  },
   title: "Contoso Outdoors Company",
   description:
     "Embrace Adventure with Contoso Outdoors - Your Ultimate Partner in Exploring the Unseen!",
