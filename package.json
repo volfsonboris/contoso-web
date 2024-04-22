@@ -10,7 +10,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@azure/openai": "^1.0.0-beta.7",
