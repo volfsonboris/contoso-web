@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://red-sky-0afc29210.5.azurestaticapps.net/sitemap.xml
